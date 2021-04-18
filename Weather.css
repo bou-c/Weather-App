@@ -1,0 +1,73 @@
+.citySearch {
+  top: 40px;
+  left: 40px;
+  font-size: 30px;
+  color: green;
+}
+.btn {
+  font-size: 25px;
+  top: 40px;
+}
+.current {
+  font-size: 25px;
+  top: 80px;
+  margin: 0px 1px 0px 1px;
+  padding: 0;
+  background-color: green;
+  color: #fff;
+  border-radius: 5px;
+  height: 50px;
+  width: 87px;
+}
+.sun {
+  font-size: px;
+  color: hsl(251, 91%, 48%);
+  font-family: fantasy;
+}
+.col-4 {
+  font-size: 50px;
+}
+
+.humidity {
+  font-size: 30px;
+}
+
+.searchResult {
+  text-align: center;
+  position: relative;
+  top: 200px;
+}
+.currentCity {
+  font-size: 50px;
+  background-color: rgb(104, 240, 240);
+  font-family: "Arvo", serif;
+  font-weight: 800;
+}
+.date {
+  font-size: 30px;
+
+  border: solid #eb5e0b;
+  border-width: 15px;
+}
+.temperature {
+  font-weight: 700;
+}
+.days {
+  font-size: 30px;
+  font-weight: 600;
+  padding: 20px 10px 20px 10px;
+  color: blue;
+  font-family: "Arvo", serif;
+}
+
+.tempEmoji {
+  font-size: 30px;
+}
+.futureTemp {
+  font-weight: 600;
+  font-size: 25px;
+  padding: 20px 10px 20px 10px;
+}
+p {
+  text-align: center;
+}
